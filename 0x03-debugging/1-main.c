@@ -20,5 +20,5 @@ int main(void)
 
 	prinf("infinte loop voided! \\o/\n");
 
-	return (0);
+return (0);
 }
